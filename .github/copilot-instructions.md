@@ -1,0 +1,37 @@
+- La documentacion y nombres de variables y definiciones debe estar en ingles.
+- Esto es para hacer una pagina Web conectando varias APIs de terceros.
+- los lenguajes a utilizar son: HTML, CSS, JavaScript y python.
+- En el frontend se usa el framework React.
+- Se utilizara usara framework Tailwind CSS, CSS Grid y Flexbox.
+- Para elementos 3d se va a usar three.js
+- Se usara la libreria axios para hacer las peticiones a las APIs.
+- Se va a subir esto a los servicios de Azure
+- la base de datos estara en Azure SQL Database
+- La autentificacion sera por medio de cuentas de Microsoft Azure AD
+- El backend sera en python usando el framework FastAPI
+- Se usara Docker para contenerizar la aplicacion
+- Se usara GitHub Actions para CI/CD
+- Se usara Postman para probar las APIs
+- Se utilizara API de terceros como:
+  - API de clima (por ejemplo, OpenWeatherMap)
+  - API de mapas (por ejemplo, Mapbox)
+  - API de teams de Microsoft
+  - API de planner de Microsoft
+  - API de Azure Cognitive Services
+  - API de traduccion (por ejemplo, Google Translate API)
+- Se debe seguir las mejores practicas de seguridad para proteger los datos de los usuarios.
+- Se debe optimizar el rendimiento de la aplicacion para una carga rapida y una experiencia fluida.
+- Se debe asegurar la compatibilidad entre navegadores para una amplia gama de usuarios.
+- Se debe implementar un diseño responsivo para dispositivos moviles y de escritorio.
+- Se debe documentar el codigo y las funcionalidades de la aplicacion para facilitar el mantenimiento y futuras actualizaciones.
+- Se debe realizar pruebas unitarias y de integracion para asegurar la calidad del codigo.
+- Se debe implementar un sistema de manejo de errores para gestionar fallos en las peticiones a las APIs y otros posibles problemas.
+- Se debe implementar un sistema de logging para monitorear el rendimiento y los errores de la aplicacion.
+- Se debe implementar un sistema de cache para mejorar el rendimiento de las peticiones a las APIs.
+- Se debe implementar un sistema de notificaciones para informar a los usuarios sobre eventos importantes.
+- Se debe implementar un sistema de analiticas para rastrear el uso de la aplicacion y obtener informacion sobre los usuarios.
+- Se debe implementar un sistema de backup para proteger los datos de los usuarios.
+- El proposito sera para la construccion de edificaciones basado en la Metodologia BIM (Building Information Modeling).
+- Se relacion con los productos de Autodesk como Revit, AutoCAD, 3ds Max, Navisworks, entre otros.
+- Implementta APIs de Autodesk como Forge, BIM 360, ACC, Revit API, entre otros.
+- la arquitectura de la aplicacion sera por capas routes, controllers, services, models, utils.
